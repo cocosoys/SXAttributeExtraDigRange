@@ -1,7 +1,9 @@
 SX-Attribute插件的属性扩展，提供一个属性:DigRange
+
 提供指令:
 /digrange reload 重载配置文件
 /digrange testmod 开启调试模式,后台将输出执行过程中的数据
+
 可使得手中物品能够范围破坏方块
 配置文件:
 ```yaml
