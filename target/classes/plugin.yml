@@ -1,0 +1,8 @@
+name: SXAttributeExtraDigRange
+version: '1.0-SNAPSHOT'
+main: soys.sxattributeextradigrange.Main
+commands:
+  digrange:
+    aliases:
+      - digrange
+    description: /digrange reload
